@@ -5,7 +5,7 @@ a Python Django blog system.
 Development
 ===============
 
-## Installation
+## Installation - Getting started
 
 ### First Off
 Make sure you have install `python-dev` and `python-pip` before continuing
